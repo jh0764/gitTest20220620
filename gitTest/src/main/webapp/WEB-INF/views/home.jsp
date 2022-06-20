@@ -10,7 +10,11 @@
 </h1>
 	<p> git hub Test</p>
 	
+<<<<<<< HEAD
 	<p>eclipese update</p>
+=======
+	<p> git hub update</p>
+>>>>>>> refs/remotes/choose_remote_name/master
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
